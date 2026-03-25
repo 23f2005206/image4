@@ -1,8 +1,0 @@
-{
-  "prompt": "A high-resolution, wide-angle photograph of a 14th-century Islamic ceramic tile wall. The composition is divided into three distinct horizontal zones to represent a neural network. THE LEFT ZONE: small, simple 4-fold stars tightly packed. THE MIDDLE ZONE: large, complex 12-fold star polygons representing hidden layers. THE RIGHT ZONE: two massive, ornate 8-fold stars representing output. Thick gold 'strapwork' lines connect the stars across the zones, with the lines becoming visibly thinner and fainter as they move from left to right to show varying weights. The strapwork physically weaves over and under in traditional Islamic grammar. Flat perspective, no 3D shading, no shadows. Palette: Cobalt blue, emerald green, and gold leaf. The symmetry is clearly broken to show a directional flow of information. No text, no labels, no modern icons. Authentic medieval tilework materials.",
-  "model": "Nano Banana 2 (Gemini 3 Flash Image)",
-  "concept": "neural networks",
-  "tradition_name": "Islamic geometric art",
-  "tradition_period": "10th–15th century",
-  "tradition_approach": "I used a non-uniform tessellation to map ANN architecture. I forced a three-zone horizontal hierarchy using varying star complexities and modulated gold strapwork thickness to physically encode synaptic weights into the traditional girih grammar, disrupting standard infinite symmetry."
-}
