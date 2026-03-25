@@ -1,0 +1,6 @@
+{
+  "prompt": "A high-resolution, two-panel diptych in a single horizontal frame. LEFT PANEL: A photorealistic, extreme close-up of a person's feet climbing up a steep, white marble staircase. The upward angle is sharp and aggressive. RIGHT PANEL: A wide-angle, minimalist architectural view of the entire structure. The staircase from the left panel is revealed to be part of a continuous, impossible geometric loop. The hiker is at the 'top' of the stairs, but the entire structure has tilted so severely that the 'top' is visibly deep underground, far below the starting floor. Use forced perspective and clean, geometric Escher-style architecture. Cold, clinical lighting, high-contrast shadows. No text, no labels, no diagrams, no watermarks. The scene is a physical, structural contradiction where every step up leads globally down. 8k resolution, surrealist architectural photography.",
+  "model": "Nano Banana 2 (Gemini 3 Flash Image)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A diptych using impossible Escher-like architecture. The left panel shows a local upward climb, while the right panel uses forced perspective to reveal that the 'top' of the stairs is physically lower than the origin floor."
+}
